@@ -35,11 +35,11 @@ http://IP:8888
 
 Status
 
-<img src="img/RPi-Monitor Status.png">
+<img src="img/Status.png">
 
 Statistics
 
-<img src="img/RPi-Monitor Statistics.png">
+<img src="img/Statistics.png">
 
 <br>
 
