@@ -78,4 +78,5 @@ pi@raspberrypi:~ $ sudo service rpimonitor stop
 <br>
 
 > 參考資料: [RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor)
+
 > 參考資料: [樹莓派的監控系統 RPi-Monitor](https://atceiling.blogspot.com/2019/04/raspberry-pi-47-rpi-monitor.html)
