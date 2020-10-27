@@ -28,7 +28,7 @@ pi@raspberrypi:~ $ sudo apt-get install rpimonitor
 
 ## Usage
 
-連線: 
+<b>連線: </b>
 ```
 http://IP:8888
 ```
