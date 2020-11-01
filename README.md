@@ -33,11 +33,11 @@ pi@raspberrypi:~ $ sudo apt-get install rpimonitor
 http://IP:8888
 ```
 
-Status
+<b>Status</b>
 
 <img src="img/Status.png">
 
-Statistics
+<b>Statistics</b>
 
 <img src="img/Statistics.png">
 
