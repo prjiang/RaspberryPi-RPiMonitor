@@ -41,7 +41,7 @@ http://IP:8888
 
 <img src="img/Statistics.png">
 
-<br>
+<hr>
 
 執行更新
 ```
